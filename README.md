@@ -11,7 +11,9 @@ Para entendimento e aplicação dos seus respectivos valores segui este modelo:
 # Como jogar?
 Para você jogar o jogo você precisa rodar a função : interpreterVideoPoker()
 
-#Divirta-se :)
+# Divirta-se :)
+
+# Fontes: [Youtube] (https://www.youtube.com/watch?v=C26lA9dGubo)
 
 
 
