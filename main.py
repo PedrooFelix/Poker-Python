@@ -199,7 +199,7 @@ def interpreterVideoPoker():
     validInput = False
     while not validInput:
       print("Quais Cartas você quer descartar? ( Ex. 1, 2, 3 )")
-      print("Aperte Enter para segurar e escreva quit para sair do jogo ")
+      print("Aperte Enter para segurar e escreva exit para sair do jogo ")
       inputStr = input()
 
       if inputStr == "exit":
