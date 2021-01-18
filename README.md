@@ -13,7 +13,8 @@ Para você jogar o jogo você precisa rodar a função : interpreterVideoPoker()
 
 # Divirta-se :)
 
-# Fontes: [Youtube] (https://www.youtube.com/watch?v=C26lA9dGubo)
+# Fontes: 
+[Youtube](https://www.youtube.com/watch?v=C26lA9dGubo)
 
 
 
