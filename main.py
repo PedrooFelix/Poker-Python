@@ -225,7 +225,7 @@ def interpreterVideoPoker():
         validInput = True
       except:
         #caso o usuário erre tudo
-        print("Input Error: use commas to separated the cards you want to hold")
+        print("Você colocou um número errado")
 
     print(player.cards)
     #Score
